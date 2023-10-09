@@ -39,7 +39,7 @@
 
 > Magazine is one of the many challenges you can find as part of the Responsive Web Design Certificate at FreeCodeCamp.org
 
-**[Magazine]** is aimed to teach you how to implement the CSS Grid layout.
+**[Magazine]** is aimed to teach you how to use the CSS Grid layout system to create responsive web designs.
 
 ## 🛠 Built With <a name="built-with"></a>
 
